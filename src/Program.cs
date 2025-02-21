@@ -2,7 +2,7 @@
 using Project1.src.OopPrinciples.Coupling;
 using Project1.src.OopPrinciples.Inheritance;
 
-namespace Project1
+namespace Project1.src
 {
     public class Program
     {
