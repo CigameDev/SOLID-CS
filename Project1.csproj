@@ -7,4 +7,11 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="src\SOLID\L\" />
+    <Folder Include="src\SOLID\I\" />
+    <Folder Include="src\SOLID\D\" />
+    <Folder Include="src\SOLID\O\" />
+  </ItemGroup>
+
 </Project>
